@@ -1,0 +1,1 @@
+Gamer life configuration repository
